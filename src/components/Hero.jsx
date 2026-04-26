@@ -28,7 +28,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           style={{ fontSize: '3.5rem', fontWeight: 'bold', lineHeight: 1.2, marginBottom: '20px' }}
         >
-          Full-Stack <br />
+          Frontend <br />
           <span style={{
             background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
             WebkitBackgroundClip: 'text',
@@ -44,7 +44,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           style={{ color: '#94a3b8', fontSize: '1rem', marginBottom: '12px' }}
         >
-          Building digital experiences that merge creativity with technology
+          Dedicated to creating impactful digital solutions through clean code and creative design.
         </motion.p>
 
         <motion.p
