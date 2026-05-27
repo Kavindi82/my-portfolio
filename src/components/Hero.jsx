@@ -26,9 +26,9 @@ export default function Hero() {
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          style={{ fontSize: '3.5rem', fontWeight: 'bold', lineHeight: 1.2, marginBottom: '20px' }}
+          style={{ fontSize: '2.8rem', fontWeight: 'bold', lineHeight: 1.2, marginBottom: '20px' }}
         >
-          Full Stack Developer |<br />
+          Full Stack Developer<br />
           <span style={{
             background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
             WebkitBackgroundClip: 'text',
