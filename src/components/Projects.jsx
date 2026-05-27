@@ -2,17 +2,12 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: "Silent Scholar",
-    desc: "An Effective E-learning System for Empowering Learners with Speech and Hearing difficulties in Primary Education.",
-    tech: ["React", "Node.js", "MongoDB"],
-    link: "#"
-  },
-  {
-    title: "Web App for Educational Institute",
-    desc: "A responsive web application for streamlining teaching, learning, and administrative tasks with online lecture sharing and assignment submission.",
-    tech: ["Full Stack", "Database", "UI/UX"],
-    link: "#"
-  },
+  title: "Silent Scholar (Final Year Project)",
+  desc: "An Effective E-learning System for Empowering Learners with Speech and Hearing difficulties in Primary Education. Developed a responsive web application aimed at streamlining teaching, learning, and administrative tasks within a private educational institute. The system integrates features such as online lecture sharing, assignment submission, and teacher-student communication in one platform.",
+  tech: ["React", "Node.js", "MongoDB", "Full Stack", "UI/UX"],
+  link: "https://github.com/Kavindi82"
+},
+  
   {
     title: "Saving Tracker",
     desc: "A personal finance tracking web application with add, edit, delete transactions and automatic balance calculations with CI/CD pipeline.",

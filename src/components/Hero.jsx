@@ -28,13 +28,13 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           style={{ fontSize: '3.5rem', fontWeight: 'bold', lineHeight: 1.2, marginBottom: '20px' }}
         >
-          Frontend <br />
+          Full Stack Developer |<br />
           <span style={{
             background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>
-            Developer
+            Cloud & IT Solutions 
           </span>
         </motion.h1>
 
