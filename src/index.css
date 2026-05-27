@@ -7,3 +7,18 @@
 body {
   overflow-x: hidden;
 }
+@media (max-width: 768px) {
+  .hamburger {
+    display: block !important;
+  }
+  .nav-links {
+    display: none !important;
+    width: 100%;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px 0;
+  }
+  .nav-links.open {
+    display: flex !important;
+  }
+}
