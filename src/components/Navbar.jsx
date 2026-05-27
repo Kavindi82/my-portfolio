@@ -41,7 +41,7 @@ export default function Navbar() {
         ))}
 
         <li>
-          <a href="https://github.com/your-username" target="_blank" rel="noreferrer" style={{
+          <a href="https://github.com/Kavindi82" target="_blank" rel="noreferrer" style={{
             background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
             WebkitBackgroundClip: 'text',
             WebkitTextFillColor: 'transparent',
