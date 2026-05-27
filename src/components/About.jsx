@@ -44,7 +44,7 @@ export default function About() {
           </div>
 
           {/* Download CV Button */}
-          <a href="/CV.pdf" download style={{
+          <a href="/cv.pdf" download style={{
             background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
             color: 'white', padding: '12px 28px',
             borderRadius: '9999px', textDecoration: 'none',
