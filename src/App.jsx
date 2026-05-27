@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
+import Certificates from './components/Certificates';
 import Contact from './components/Contact';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <div style={{ minHeight: '100vh' }}><About /></div>
         <div style={{ minHeight: '100vh' }}><Projects /></div>
         <div style={{ minHeight: '100vh' }}><Skills /></div>
+        <div style={{ minHeight: '100vh' }}><Certificates /></div>
         <div style={{ minHeight: '100vh' }}><Contact /></div>
       </div>
     </div>

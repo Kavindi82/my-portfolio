@@ -15,18 +15,18 @@ export default function Navbar() {
       borderBottom: '1px solid #a855f733'
     }}>
       <a href="#" style={{ textDecoration: 'none' }}>
-  <h1 style={{
-    fontSize: '1.5rem', fontWeight: 'bold',
-    background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
-    WebkitBackgroundClip: 'text',
-    WebkitTextFillColor: 'transparent'
-  }}>
-    Kavindi
-  </h1>
-</a>
+        <h1 style={{
+          fontSize: '1.5rem', fontWeight: 'bold',
+          background: 'linear-gradient(90deg, #a855f7, #3b82f6)',
+          WebkitBackgroundClip: 'text',
+          WebkitTextFillColor: 'transparent'
+        }}>
+          Kavindi
+        </h1>
+      </a>
 
       <ul style={{ display: 'flex', gap: '24px', listStyle: 'none', margin: 0, padding: 0, alignItems: 'center' }}>
-        {['About', 'Projects', 'Skills', 'Contact'].map((item) => (
+        {['About', 'Projects', 'Skills', 'Certificates', 'Contact'].map((item) => (
           <li key={item}>
             <a href={`#${item.toLowerCase()}`} style={{
               color: dark ? 'white' : '#0f172a',
